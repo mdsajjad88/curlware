@@ -6,5 +6,5 @@ Step-4: Key Generate(php artisan key:generate)
 Step-5: env file update (php artisan config:cache or php artisan optimize)
 Step-6: php artisan migrate
 Step-7: Run this project 
-Step-8: Create new task and check all operation
-
+Step-8: Create new task and check all operation (operation Controller = NewtaskController)
+*******END**********
